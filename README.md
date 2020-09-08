@@ -1,2 +1,2 @@
-# simple_calculator
+## simple_calculator
 Dicoding Academy test - simple calculator
